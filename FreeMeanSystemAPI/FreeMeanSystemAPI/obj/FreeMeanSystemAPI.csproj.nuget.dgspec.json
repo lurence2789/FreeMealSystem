@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lurence Tablo\\source\\repos\\FreeMeanSystemAPI\\FreeMeanSystemAPI\\FreeMeanSystemAPI.csproj": {}
+    "C:\\Users\\Lurence Tablo\\OneDrive\\Pictures\\Documents\\School\\Thesis\\FreeMealSystem\\FreeMeanSystemAPI\\FreeMeanSystemAPI\\FreeMeanSystemAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lurence Tablo\\source\\repos\\FreeMeanSystemAPI\\FreeMeanSystemAPI\\FreeMeanSystemAPI.csproj": {
+    "C:\\Users\\Lurence Tablo\\OneDrive\\Pictures\\Documents\\School\\Thesis\\FreeMealSystem\\FreeMeanSystemAPI\\FreeMeanSystemAPI\\FreeMeanSystemAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lurence Tablo\\source\\repos\\FreeMeanSystemAPI\\FreeMeanSystemAPI\\FreeMeanSystemAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Lurence Tablo\\OneDrive\\Pictures\\Documents\\School\\Thesis\\FreeMealSystem\\FreeMeanSystemAPI\\FreeMeanSystemAPI\\FreeMeanSystemAPI.csproj",
         "projectName": "FreeMeanSystemAPI",
-        "projectPath": "C:\\Users\\Lurence Tablo\\source\\repos\\FreeMeanSystemAPI\\FreeMeanSystemAPI\\FreeMeanSystemAPI.csproj",
+        "projectPath": "C:\\Users\\Lurence Tablo\\OneDrive\\Pictures\\Documents\\School\\Thesis\\FreeMealSystem\\FreeMeanSystemAPI\\FreeMeanSystemAPI\\FreeMeanSystemAPI.csproj",
         "packagesPath": "C:\\Users\\Lurence Tablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lurence Tablo\\source\\repos\\FreeMeanSystemAPI\\FreeMeanSystemAPI\\obj\\",
+        "outputPath": "C:\\Users\\Lurence Tablo\\OneDrive\\Pictures\\Documents\\School\\Thesis\\FreeMealSystem\\FreeMeanSystemAPI\\FreeMeanSystemAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lurence Tablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
